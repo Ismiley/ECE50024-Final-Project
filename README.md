@@ -8,4 +8,19 @@ Test model: python3.9 test.py
 
 Download the apple2orange dataset at: https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/
 <br />
-Split the training dataset into a testing and validation set.
+Split the training dataset into a testing and validation set, so that the file structure looks like:
+
+apple2oranges
+
+--apples
+
+----train
+
+----val
+
+--oranges
+
+----train
+
+----val
+
