@@ -16,9 +16,9 @@
 
 ## Dataset File Structure
 apple2oranges
-- apples
--- train
--- val
-- oranges
--- train
--- val
+--apples
+----train
+----val
+--oranges
+----train
+----val
