@@ -15,10 +15,10 @@
 - Split data into train and val sets.
 
 ## Dataset File Structure
-apple2oranges
---apples
-----train
-----val
---oranges
-----train
-----val
+apple2oranges <br />
+--apples <br />
+----train <br />
+----val <br />
+--oranges <br />
+----train <br />
+----val <br />
